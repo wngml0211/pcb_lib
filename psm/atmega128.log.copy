@@ -1,0 +1,28 @@
+<HTML><HEAD><STYLE TYPE="text/css">.errorMessage { color:darkred; font-weight:bold; font-style:italic; text-decoration:underline; }</STYLE></HEAD><BODY><PRE>
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : atmega128.dra                                 )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Tue Jul 16 15:38:14 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/user/Desktop/workspace/pcd_lib/psm
+    Name      = atmega128.psm
+    User      = user
+    Machine   = USER-PC
+
+
+Create symbol started.
+ 
+ <b><i><font color="darkred">ERROR(SPMHCS-1)</i></b></font>: Symbol is missing a refdes. 
+ <b><i><font color="darkred">ERROR(SPMHCS-1)</i></b></font>: Symbol is missing a refdes. 
+
+<b><i><font color="darkred">ERROR(SPMHA1-291)</i></b></font>: Create symbol has been aborted.
+
+</PRE>
+</BODY></HTML>
